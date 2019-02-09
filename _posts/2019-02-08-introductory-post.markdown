@@ -4,12 +4,7 @@ layout: post
 date: 2019-02-08 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
-tag:
-- intro
-- welcome
-- about
-- personal
-- extra
+#tag:
 category: blog
 author: nickrowdon
 description: Intro to blog
