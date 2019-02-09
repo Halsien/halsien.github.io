@@ -12,7 +12,7 @@ tag:
 - extra
 category: blog
 author: nickrowdon
-description: Markdown summary with different options
+description: Intro to blog
 
 ---
 
