@@ -10,6 +10,7 @@ tag:
 - extra
 category: blog
 author: jamesfoster
+hidden: true
 description: Markdown summary with different options
 ---
 
