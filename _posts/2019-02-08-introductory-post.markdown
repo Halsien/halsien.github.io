@@ -13,8 +13,8 @@ author: nickrowdon
 ---
 
 <picture>
-  <source srcset="{{ site.url }}/img/macbookglow.webp" type="image/webp">
-  <img src="{{ site.url }}/img/macbookglow.jpg" alt="Glowing Macbook">
+  <source srcset="{{ site.url }}/assets/images/macbookglow.webp" type="image/webp">
+  <img src="{{ site.url }}/assets/images/macbookglow.jpg" alt="Glowing Macbook">
 </picture>
 
 Hey there, I’m Nick.
