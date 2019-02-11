@@ -12,7 +12,10 @@ hidden: false
 author: nickrowdon
 ---
 
-<img class="image" src="{{ site.url }}/assets/images/macbookglow.jpg" alt="Alt Text">
+<picture>
+  <source srcset="{{ site.url }}/assets/images/macbookglow.webp" type="image/webp">
+  <img src="{{ site.url }}/assets/images/macbookglow.jpg" alt="Glowing Macbook">
+</picture>
 
 Hey there, I’m Nick.
 
