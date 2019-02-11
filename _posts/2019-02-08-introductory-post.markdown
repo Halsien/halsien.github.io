@@ -2,20 +2,16 @@
 title:  "Secrets to Unlimited Power: Why I'm Giving Them To You For Free " #old."Influencing decisions: The big guys know how to use it against you. They won't tell you, but I will"
 layout: post
 date: 2019-02-08 22:48
-image: /assets/images/macbookglow.jpg
-headerImage: false
 tag:
 - intro
 - personal
 - extra
 category: blog
-#author: nickrowdon
 description: Intro to blog
 hidden: false
 ---
 
 <img class="image" src="{{ site.url }}/assets/images/macbookglow.jpg" alt="Alt Text">
-<figcaption class="caption">@tma via Upsplash</figcaption>
 
 Hey there, I’m Nick.
 
@@ -38,7 +34,6 @@ That's the real question - <span class="evidence">Why would I do this?</span>
     </div>
     <div class="toright">
         <img class="image" src="{{ site.url }}/assets/images/GirlWearingVRGoggles.jpg" alt="Alt Text">
-        <figcaption class="caption">@samuelzeller via Upsplash</figcaption>
     </div>
 </div>
 
@@ -53,3 +48,5 @@ I could go on forever with this list. I told you, there's a lot of stuff here. H
 The same applies to copywriting. It's not by accident, every word is chosen for a reason. Once I show you the fascinating world of copywriting, psychology, and technology... You won't be able to un-see it. Again, I am trusting that you will use this information responsibly. It happens all around us, and most of the time it goes unnoticed.
 
 *P.S. Pretty soon I'll get around to having notifications for my new posts. When I do, you won't want to miss out. I'll change this once I get there. My free time right now is spent mostly building content to share with you. I'll get to the notifications soon enough.*
+
+<figcaption class="caption">images from @tma and @samuelzeller via Upsplash</figcaption>
