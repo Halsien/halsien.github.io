@@ -9,6 +9,7 @@ tag:
 category: blog
 description: Intro to blog
 hidden: false
+author: nickrowdon
 ---
 
 <img class="image" src="{{ site.url }}/assets/images/macbookglow.jpg" alt="Alt Text">
