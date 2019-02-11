@@ -107,7 +107,7 @@ webp:
 
   # List of directories containing images to optimize, nested directories will not be checked
   # By default the generator will search for a folder called `/img` under the site root and process all jpg, png and tiff image files found there.
-  img_dir: ["/assets/images"]
+  img_dir: ["assets/images"]
 
   # add ".gif" to the format list to generate webp for animated gifs as well
   formats: [".jpeg", ".jpg", ".png", ".tiff"]
