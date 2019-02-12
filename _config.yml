@@ -96,29 +96,10 @@ show-author: true
 # do you want some animations?
 animation: true
 
-imagemagick:
-  enabled: true
-  widths:
-    - 1024
-    - 512
-    - 0
-  input_directories:
-    - assets/images
-
-  input_formats:
-    - ".png"
-    - ".tiff"
-    - ".jpg"
-  output_formats:
-    jpg: "-quality 93% -define jpeg:dct-method=float -strip -interlace Plane"
-    webp: "-quality 100%"
-
-
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
-  - jekyll-imagemagick
   - jemoji
   - jekyll-admin
 

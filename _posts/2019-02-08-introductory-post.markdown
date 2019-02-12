@@ -13,7 +13,8 @@ author: nickrowdon
 ---
 
 <picture>
-  <source srcset="{{ site.url }}/assets/images/macbookglow.webp" type="image/webp">
+  <source srcset="{{ site.url }}/assets/images/macbookglow/macbookglowmedium.jpg,
+                  {{ site.url }}/assets/images/macbookglow/macbookglowlarge.jpg">
   <img src="{{ site.url }}/assets/images/macbookglow.jpg" alt="Glowing Macbook">
 </picture>
 
@@ -37,7 +38,11 @@ That's the real question - <span class="evidence">Why would I do this?</span>
         <!-- <p> Copywriting is a combination of a bunch of different things. I'm talking about direct response copywriting. The stuff I do. Like getting someone to make a purchase. Sign up for a newsletter. Give out their email. It's a way they <ins>directly respond</ins> to something. Clever, huh? You've probably seen fireworks before, it wouldn't be a fun show if you started with the finale, right? Writing copy isn't all that different.</p> -->
     </div>
     <div class="toright">
-        <img class="image" src="{{ site.url }}/assets/images/GirlWearingVRGoggles.jpg" alt="Alt Text">
+          <picture>
+            <source srcset="{{ site.url }}/assets/images/VRgogglegirl/GirlWearingVRGogglesMedium.jpg,
+                            {{ site.url }}/assets/images/VRgogglegirl/GirlWearingVRGogglesLarge.jpg">
+            <img src="{{ site.url }}/assets/images/GirlWearingVRGoggles.jpg" alt="Girl Wearing VR Goggles">
+          </picture>
     </div>
 </div>
 
@@ -53,4 +58,4 @@ The same applies to copywriting. It's not by accident, every word is chosen for 
 
 *P.S. Pretty soon I'll get around to having notifications for my new posts. When I do, you won't want to miss out. I'll change this once I get there. My free time right now is spent mostly building content to share with you. I'll get to the notifications soon enough.*
 
-<figcaption class="caption">images from @tma and @samuelzeller via Upsplash</figcaption>
+<figcaption class="caption">images from @tma and @samuelzeller via Unsplash</figcaption>
