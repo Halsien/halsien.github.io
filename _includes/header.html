@@ -33,6 +33,14 @@
           <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
       </span>
       <h1 class="title">{{ site.name }}</h1>
-      <h2 class="description">{{ site.bio }}</h2>
+
+<div class="deschome">
+  <div style="text-align: left;">
+      {% include homedesc.html %}
+  </div>
+</div>
+
+
       {% include social-links.html %}
+
 {% endif %}
