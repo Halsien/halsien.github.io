@@ -15,7 +15,7 @@
         {% endif %}
 
         <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
+        <h2 class="description">Stuff I've learned, stuff I'm learning, stuff I'm sharing.</h2>
 
         {% include social-links.html %}
     </header>
@@ -46,5 +46,15 @@
     <h1 class="title">Past Work & Projects</h1>
     <h2 class="description">Click on any project to view a detailed writeup about it.</h2>
   </header>
+  <header class="header-home">  {% include social-links.html %} </header>
+{% endif %}
+
+{% if page.title == "Contact" %}
+<header class="header-home {% if site.animation %}animated{% endif %}">
+  <span class="link">
+      <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+  </span>
+    <h1 class="title">Get in Touch</h1>
+    <h2 class="description">Think we are a good match? Just want to know more? Send me an email, I look forward to getting in touch.</h2>
   <header class="header-home">  {% include social-links.html %} </header>
 {% endif %}

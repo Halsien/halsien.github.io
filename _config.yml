@@ -1,6 +1,6 @@
 # main text of home
 name: Nick Rowdon
-bio: Add Later
+bio: Stuff I've learned, stuff I'm learning, stuff I'm sharing.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -88,7 +88,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [blog, projects]
 
 # show author block at the end of a post ?
 show-author: true
