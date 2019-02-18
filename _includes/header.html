@@ -1,5 +1,4 @@
 {% if page.title == "Blog"
-   or page.title == "Projects"
    or page.title == "Tags"
 %}{% assign showHeader = true %}{% endif %}
 
@@ -39,8 +38,13 @@
       {% include homedesc.html %}
   </div>
 </div>
-
-
       {% include social-links.html %}
+{% endif %}
 
+{% if page.title == "Projects" %}
+  <header class="header-home {% if site.animation %}animated{% endif %}">
+    <h1 class="title">Past Work & Projects</h1>
+    <h2 class="description">Click on any project to view a detailed writeup about it.</h2>
+  </header>
+  <header class="header-home">  {% include social-links.html %} </header>
 {% endif %}
