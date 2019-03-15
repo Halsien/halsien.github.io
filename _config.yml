@@ -106,7 +106,7 @@ plugins:
 
 
 jekyll-mentions:
-    base_url: https://nickrowdon.com
+    base_url: https://halsien.github.io
 
 compress_html:
     ignore:
