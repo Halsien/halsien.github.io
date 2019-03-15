@@ -4,43 +4,33 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Who am I?</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Welcome to my website, my name is Nick Rowdon. I'm a direct response copywriter from Ontario with years of marketing and sales experience. I'm here to help your sales and marketing get to where it deserves to be.</p>
 
-<h2>Skills</h2>
+<h2><span class="evidence">My ONLY goal is to help your product or service SELL better...</span></h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<p>I'm here to write words to generate more profit for you. It's not always about writing cute "brand personality" pieces. If you want to make more money, the words you put out have to reflect that. I know how to do that.</p>
 
-<h2>Projects</h2>
+<p>You need QUALITY prospects who CONVERT. Don't settle for bad copy and ads that bring in the wrong leads who will never convert. They bring up your costs and lower your profits. You don't want jokes, you don't want fluff, you want RESULTS.</p>
+<p>Do you want more PROFIT, while spending LESS?</p>
+<p>Why should you spend your days slaving over your advertisements, copywriting, landing pages, etc. You’ve built a business and you deserve to be working on it!</p> 	
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>I am a full-stack direct response marketer. Depending on your need, I will take you from A-to-Z with your marketing. There’s a lot of skillsets that go into this, let me explain…</p>
+Instead of going to 3, 4, or even 5 different people to help your marketing, use all the saved time to do what you want. The services I can do for you are:
+1.	Facebook ads
+2.	Landing Pages
+3.	Funnels
+4.	Sales Copy
+5.	Custom Images / Graphics
+6.	Email Campaigns + Lists / Autoresponders
+7.	Increase ROI, Increase ROAS (Return On Ad Spend)
+8.	Increase Click-Through Rate.
+
+<p>And so much more…</p>
+
+<p>For whatever reason, <a href="{{ site.url }}/contact">send me a message</a>. You can also reach me via email at <span class="evidence">hello@nickrowdon.com</span></p>
+
+<p>I look forward to getting in touch.</p>
+
+<p>Nick</p>

@@ -1,5 +1,5 @@
 ---
-title: "Dentist Ad for Facebook Breakdown"
+title: "Dentist Ads for Facebook: Breakdown & Explanation"
 layout: post
 date: 2019-03-06 17:48
 tag:
@@ -16,12 +16,25 @@ author: nickrowdon
 externalLink: false
 ---
 
-These are some ads for a dentist office. Two of the previews are what the ads would look like in someone's Facebook newsfeed.
+First, before we post an ad, we need to understand some things. What objective the ad should accomplish and who we’re going to show the ad to. Dentist ads are a tricky lot. Who should we target? How many people? What interests? Look-alike audiences? Income? The list can go on forever.
 
+Our objective is to get people in the door of the dentist office, and keep them coming back. The ads can only get people in the door, the dentist office is what controls the experience once they're there. In the case that a client does not return, we can always retarget them with different ads to get them back. This retargeting tactic is extremely effective.
 
-Every element in each ad is there to help the ad perform better. During a campaign, we will constantly change, tweak, and test different elements to get a better return on adspend (ROAS), meaning every dollar spent on the ads generates more revenue.
+People aren’t going to drive from Alberta to our dentist office here in Ontario. Ignore what the gurus have said about targeting millions of people at once, we have to think logically. We're not after millions of people across the country!
 
-Let's break them down and see the reasoning behind the decisions.
+We know our potential clients are in our area. Do we just target everyone in the local area? Well, sure, but it wouldn’t be optimal. Let’s think about what we’re offering in our promotion. The offer is free teeth whitening. We can start it off by selecting everyone in the area interested in “Teeth Whitening.”
+
+That was easy, right? Well, we’re not quite finished yet. There’s a lot of people who are interested in teeth whitening but are not a potential client. We have to narrow it down. Simply put, we have to exclude everyone who works in the dental field. Think about it, another dentist who offers teeth whitening would not be a good potential client for us.
+
+When we think about it further, getting a 400 dollar teeth whitening for free is a darned good deal. So good that someone might drive an hour or more for it, but never come back. They offer no lifetime value for us, so we continue to narrow the geographic area down to the exact areas that will offer the most value for us in the long run.
+
+We can use things like censuses, income reports, and more to understand who and were we want to target. Someone who wants whiter teeth, but doesn’t have the money or insurance to afford to go to the dentist is targeted differently than someone who can. Someone who currently doesn't have the funds for regular visits will be more likely to go after referral incentives. Let's dig deeper on lifetime value and referrals.
+
+But, even with the best targeting, it won’t always be right. Fellow marketers have found that a dental patient has a lifetime value of around $5000. Even if we spent $50 a day on advertising for a month, getting only one new client would be profitable! Of course, we are aiming for better results, but this illustrates the cushion of protection we have when the lifetime value of a customer increases.
+
+That’s just a drop in the bucket when we look at potential revenue. People trust their friends over a Facebook ad. With such high lifetime value, it’s important to run promotions for referrals. Make the incentives HUGE. <span class="evidence">With just three referrals the lifetime value is now $20,000!</span> Now, our client who got a free teeth whitening, but couldn't afford to visit regularly without referring friends is worth so much more to us financially. 
+
+Now that we’ve established customer targeting and the lifetime value, Let’s break the ads down and see the reasoning behind the decisions.
 
 
 
