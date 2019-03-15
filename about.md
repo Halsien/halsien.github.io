@@ -29,7 +29,7 @@ Instead of going to 3, 4, or even 5 different people to help your marketing, use
 
 <p>And so much more…</p>
 
-<p>For whatever reason, <a href="{{ site.url }}/contact">send me a message</a>. You can also reach me via email at <span class="evidence">hello@nickrowdon.com</span></p>
+<p>For whatever reason, <a href="{{ site.url }}/contact">send me a message</a>. You can also reach me on any of my social media pages.</p>
 
 <p>I look forward to getting in touch.</p>
 
