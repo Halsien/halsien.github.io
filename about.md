@@ -14,7 +14,7 @@ layout: page
 
 <p>You need QUALITY prospects who CONVERT. Don't settle for bad copy and ads that bring in the wrong leads who will never convert. They bring up your costs and lower your profits. You don't want jokes, you don't want fluff, you want RESULTS.</p>
 <p>Do you want more PROFIT, while spending LESS?</p>
-<p>Why should you spend your days slaving over your advertisements, copywriting, landing pages, etc. You’ve built a business and you deserve to be working on it!</p> 	
+<p>Why should you spend your days slaving over your advertisements, copywriting, landing pages, etc? You’ve built a business and you deserve to be working on it!</p> 	
 
 <p>I am a full-stack direct response marketer. Depending on your need, I will take you from A-to-Z with your marketing. There’s a lot of skillsets that go into this, let me explain…</p>
 Instead of going to 3, 4, or even 5 different people to help your marketing, use all the saved time to do what you want. The services I can do for you are:
