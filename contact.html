@@ -83,7 +83,14 @@ $(document).ready(
 </script>
 
   <div class="row ">
-    <form role="form" action="//formspree.io/nickrowdonwebsite@gmail.com" method="POST" id="contact-form" >
+    <script>
+  var mailAdd1 = "hel";
+  var mailAdd2 = "lo@";
+  var mailAdd3 = "nickro";
+  var mailAdd4 = "wdon.com";
+  var fullAdd = mailAdd1 + mailAdd2 + mailAdd3 + mailAdd4;
+  document.write('<form action="https://formspree.io/' + fullAdd + '" method="post">');
+</script>
       <input type="hidden" name="_subject" value="Information request" />
       <div class="row">
         <div class="col-md-12">
