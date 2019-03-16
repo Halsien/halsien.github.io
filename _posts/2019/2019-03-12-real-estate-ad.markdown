@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Real Estate Ads for Facebook: Breakdown & Explanation"
+title: "Real Estate Ads for Facebook: Home Sale & Lead Magnet"
 date: "2019-03-12 22:22"
 tag:
 - project

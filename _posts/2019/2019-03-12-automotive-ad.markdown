@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Mechanic (Auto Repair) Ads for Facebook: Breakdown & Explanation"
+title: "Mechanic Ads for Facebook: Special Offers & Lead Magnet"
 date: "2019-03-09 12:40"
 tag:
 - project

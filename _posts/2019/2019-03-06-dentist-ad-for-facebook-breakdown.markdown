@@ -1,5 +1,5 @@
 ---
-title: "Dentist Ads for Facebook: Breakdown & Explanation"
+title: "Dentist Ads for Facebook: Free Teeth Whitening"
 layout: post
 date: 2019-03-06 17:48
 tag:
@@ -32,7 +32,7 @@ We can use things like censuses, income reports, and more to understand who and 
 
 But, even with the best targeting, it won’t always be right. Fellow marketers have found that a dental patient has a lifetime value of around $5000. Even if we spent $50 a day on advertising for a month, getting only one new client would be profitable! Of course, we are aiming for better results, but this illustrates the cushion of protection we have when the lifetime value of a customer increases.
 
-That’s just a drop in the bucket when we look at potential revenue. People trust their friends over a Facebook ad. With such high lifetime value, it’s important to run promotions for referrals. Make the incentives HUGE. <span class="evidence">With just three referrals the lifetime value is now $20,000!</span> Now, our client who got a free teeth whitening, but couldn't afford to visit regularly without referring friends is worth so much more to us financially. 
+That’s just a drop in the bucket when we look at potential revenue. People trust their friends over a Facebook ad. With such high lifetime value, it’s important to run promotions for referrals. Make the incentives HUGE. <span class="evidence">With just three referrals the lifetime value is now $20,000!</span> Now, our client who got a free teeth whitening, but couldn't afford to visit regularly without referring friends is worth so much more to us financially.
 
 Now that we’ve established customer targeting and the lifetime value, Let’s break the ads down and see the reasoning behind the decisions.
 
