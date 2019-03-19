@@ -1,5 +1,5 @@
 ---
-title: "Dentist Ads for Facebook: Free Teeth Whitening"
+title: "Dentist Ads for Facebook: Free Teeth Whitening Offer"
 layout: post
 date: 2019-03-06 17:48
 tag:
@@ -7,7 +7,8 @@ tag:
 - dentist
 - facebook
 - freebie
-- offer
+- offer.
+- ad
 projects: true
 hidden: true
 description: "Dentist ad example I made, with detailed breakdown."
@@ -136,3 +137,5 @@ Now that we’ve established customer targeting and the lifetime value, Let’s 
 ---
 
 ### Are you looking to run advertisements for a dentist office? Please contact me and we can find the best steps to take together.
+
+---
