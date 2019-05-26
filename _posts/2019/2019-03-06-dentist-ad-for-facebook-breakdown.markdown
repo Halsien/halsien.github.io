@@ -7,8 +7,9 @@ tag:
 - dentist
 - facebook
 - freebie
-- offer.
+- offer
 - ad
+jemoji: '<img class="emoji" title="YAAN" alt="YAAN" src="/assets/images/icons/YAAN.png" height="30" width="30" align="absmiddle">'
 projects: true
 hidden: true
 description: "Dentist ad example I made, with detailed breakdown."
