@@ -1,5 +1,5 @@
 ---
-title: "Dentist Ads for Facebook: Free Teeth Whitening Offer"
+title: "Tall Oaks Dentistry"
 layout: post
 date: 2019-03-06 17:48
 tag:
@@ -9,7 +9,7 @@ tag:
 - freebie
 - offer
 - ad
-jemoji: '<img class="emoji" title="YAAN" alt="YAAN" src="/assets/images/icons/YAAN.png" height="30" width="30" align="absmiddle">'
+jemoji: '<img class="emoji" title="YAAN" alt="YAAN" src="/assets/images/icons/YAAN.png" height="40" width="40" align="absmiddle">'
 projects: true
 hidden: true
 description: "Dentist ad example I made, with detailed breakdown."
