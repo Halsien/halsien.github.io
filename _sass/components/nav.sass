@@ -1,5 +1,6 @@
 .nav,
 .nav-home
+
     > .list
         list-style: none
         margin: 0
@@ -20,6 +21,15 @@
     position: absolute
     right: 0
     top: 0
+    @media #{$mobile}
+        position: relative
+        text-align: center
+        z-index: 99
+
+    @media #{$tablet}
+        margin-top: relative
+        z-index: 99
+
 
     > .list
         padding: 0 13px 0
@@ -42,6 +52,11 @@
             border-radius: 100%
             transition: all .4s ease-in-out
             width: 100px
+
+            @media #{$mobile}
+                width: 70px
+            @media #{$tablet}
+                width: 70px
 
             &:hover
                 color: $alpha
