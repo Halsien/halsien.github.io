@@ -1,0 +1,15 @@
+
+{% include nav.html %}
+
+    <header class="header-home {% if site.animation %}animated{% endif %}">
+      <a class="link" href="{{ site.url }}/">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+</a>
+      <h1 class="title2">{{ site.name }}</h1>
+<div class="wrapper-large">
+<div class="deschome">
+  <div style="text-align: left;">
+      {% include homedesc.html %}
+  </div>
+</div>
+</div>

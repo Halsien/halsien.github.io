@@ -6,6 +6,11 @@
         margin: 0
         padding: 0 13px 0
         margin-bottom: 15px
+        @media #{$mobile}
+            z-index: 99
+            text-align: center
+
+        @media #{$tablet}
 
         > .item
             display: inline-block
@@ -26,13 +31,16 @@
         text-align: center
         z-index: 99
 
+
     @media #{$tablet}
-        margin-top: relative
+        position: relative
+        text-align: center
         z-index: 99
 
 
     > .list
         padding: 0 13px 0
+
 
         > .item > .link
             font-size: 1.6rem
@@ -40,6 +48,7 @@
 
 .nav-home
     margin-top: 15px
+
     text-align: center
 
     > .list
@@ -54,9 +63,12 @@
             width: 100px
 
             @media #{$mobile}
-                width: 70px
+                font-size: 1.6rem
+                width: auto
+                padding: auto
             @media #{$tablet}
-                width: 70px
+                width: auto
+                padding: auto
 
             &:hover
                 color: $alpha
