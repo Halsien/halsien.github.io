@@ -45,21 +45,23 @@
 {% endif %}
 
 {% if page.title == "Projects" %}
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <header class="header-home {% if site.animation %}animated{% endif %}">
     <h1 class="title">Past Work & Projects</h1>
-    <h2 class="description"><i><figcaption class="caption">* indicates spec work</figcaption></i></h2>
+    <h2><i><figcaption class="caption">* indicates spec work</figcaption></i></h2>
   </header>
   <header class="header-home">  {% include social-links.html %} </header>
 {% endif %}
 
 
 {% if page.title == "Contact" %}
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <header class="header-home {% if site.animation %}animated{% endif %}">
   <a class="link" href="{{ site.url }}/">
       <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
   </a>
     <h1 class="title">Contact</h1>
-    <h2 class="description">I look forward to hearing from you. Please fill out the short form below or email me at
+    <h2>I look forward to hearing from you. Please fill out the short form below or email me at
       <script>
     var mailAdd1 = "hel";
     var mailAdd2 = "lo@";

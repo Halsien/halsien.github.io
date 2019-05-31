@@ -12,7 +12,7 @@ tag:
 jemoji: '<img class="emoji" title="YAAN" alt="YAAN" src="/assets/images/icons/YAAN.png" height="40" width="40" align="absmiddle">'
 projects: true
 hidden: true
-description: "Dentist ad example I made, with detailed breakdown."
+description: "Dentist ad example I made, with detailed breakdown. Wonderful"
 category: project
 author: nickrowdon
 externalLink: false
