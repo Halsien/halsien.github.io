@@ -6,6 +6,7 @@
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
+            <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
             <a class="link" href="{{ site.url }}/about">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </a>
@@ -45,12 +46,12 @@
 {% endif %}
 
 {% if page.title == "Projects" %}
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <header class="header-home {% if site.animation %}animated{% endif %}">
-    <h1 class="title">Past Work & Projects</h1>
-    <h2><i><figcaption class="caption">* indicates spec work</figcaption></i></h2>
-  </header>
-  <header class="header-home">  {% include social-links.html %} </header>
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<header class="header-home {% if site.animation %}animated{% endif %}">
+  <h1 class="title">Past Work & Projects</h1>
+  <h2><i><figcaption class="caption">* indicates spec work</figcaption></i></h2>
+</header>
+<header class="header-home">  {% include social-links.html %} </header>
 {% endif %}
 
 
@@ -71,4 +72,13 @@
     document.write(fullAdd);
   </script></h2>
   <header class="header-home">  {% include social-links.html %} </header>
+{% endif %}
+
+{% if page.title == "Postcard" %}
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<header class="header-home {% if site.animation %}animated{% endif %}">
+  <h1 class="title">You got my EPIC postcard in the mail and now you WANT TO GET RICH!</h1>
+  <h2>Well you're in LUCK!</h2>
+</header>
+<header class="header-home">  {% include social-links.html %} </header>
 {% endif %}

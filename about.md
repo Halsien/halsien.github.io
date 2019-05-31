@@ -1,6 +1,7 @@
 ---
 title: About
 layout: pagelarge
+description: All about Nick Rowdon, direct response copywriting PRO. What he can do to make you RICH.
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 

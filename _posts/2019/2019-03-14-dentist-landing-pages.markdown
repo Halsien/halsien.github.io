@@ -9,7 +9,7 @@ tag:
 - appointment
 projects: true
 category: project
-description:
+description: This page is about my dentist landing pages, and why they're AMAZING for your business to make MONEY!
 hidden: false
 author: nickrowdon
 ---
