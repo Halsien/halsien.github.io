@@ -1,6 +1,6 @@
 # main text of home
 name: Nick Rowdon
-bio: Stuff I've learned, stuff I'm learning, stuff I'm sharing.
+bio: A Direct Response Copywriter Who Makes You MORE MONEY!!
 
 # twitter summary info
 description: Direct Response Copywriter & Facebook Ad Specialist
@@ -56,7 +56,7 @@ email: hello@nickrowdon.com
 authors:
     nickrowdon:
         name: Nick Rowdon
-        #bio: A Man who travels the world eating noodles
+        bio: A Direct Response Copywriter Who Makes You MORE MONEY!!
         external-image: false
         picture: assets/images/profile.jpg
         twitter: nickrowdon

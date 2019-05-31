@@ -16,7 +16,7 @@
         {% endif %}
 
         <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">Stuff I've learned, stuff I'm learning, stuff I'm sharing.</h2>
+        <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
         <div style="color: #e71d36" {% include social-links.html %}
     </header>
