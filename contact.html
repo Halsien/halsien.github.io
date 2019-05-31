@@ -1,9 +1,10 @@
 ---
 title: Contact
 layout: contact
+description: All of my contact information. Please refer to this page to contact me.
 ---
 <!DOCTYPE html>
-
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
 <html lang="en">
 <head>

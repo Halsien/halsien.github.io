@@ -1,7 +1,9 @@
 ---
 layout: pagelarge
 title: Projects
+description: This page is my direct response portfolio. It has some work from clients on it to get an inside look at my writing.
 ---
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <section class="list">
     {% for post in site.posts %}
         {% if post.projects %}
