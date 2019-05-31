@@ -4,7 +4,7 @@ layout: pagelarge
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h2>Who am I?</h2>
+<h1>Who am I?</h1>
 
 <p>Welcome to my website, my name is Nick Rowdon. I'm a direct response copywriter from Ontario with years of marketing and sales experience. I'm here to help your sales and marketing get to where it deserves to be.</p>
 
