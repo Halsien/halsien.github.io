@@ -1,3 +1,4 @@
+
 {% if page.title == "Blog"
    or page.title == "Tags"
 %}{% assign showHeader = true %}{% endif %}
@@ -57,7 +58,15 @@
   <a class="link" href="{{ site.url }}/">
       <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
   </a>
-    <h1 class="title">Get in Touch</h1>
-    <h2 class="description">Think we are a good match? Just want to know more? Send me an email, I look forward to getting in touch. <br /><i><figcaption class="caption">You will be redirected to my form provider's website to fill out a quick anti-spam measure. You can always contact me on any of my social media pages. </figcaption></i></h2>
+    <h1 class="title">Contact</h1>
+    <h2 class="description">I look forward to hearing from you. Please fill out the short form below or email me at
+      <script>
+    var mailAdd1 = "hel";
+    var mailAdd2 = "lo@";
+    var mailAdd3 = "nickro";
+    var mailAdd4 = "wdon.com";
+    var fullAdd = mailAdd1 + mailAdd2 + mailAdd3 + mailAdd4;
+    document.write(fullAdd);
+  </script></h2>
   <header class="header-home">  {% include social-links.html %} </header>
 {% endif %}
