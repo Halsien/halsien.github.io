@@ -1,26 +1,29 @@
-
 {% if page.title == "Blog"
    or page.title == "Tags"
 %}{% assign showHeader = true %}{% endif %}
 
 {% if showHeader == true %}
-    <header class="header-home {% if site.animation %}animated{% endif %}">
+
+<header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
-            <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-            <a class="link" href="{{ site.url }}/about">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </a>
+
+
+    <a class="link" href="{{ site.url }}/about">
+      <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+    </a>
         {% else %}
-            <span class="link">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </span>
+
+    <span class="link">
+      <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+    </span>
         {% endif %}
 
-        <h1 class="title">{{ site.name }}</h1>
-        <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
-        <div style="color: #e71d36" {% include social-links.html %}
-    </header>
+    <h1 class="title">{{ site.name }}</h1>
+
+      <div style="color: #e71d36" {% include social-links.html %}
+
+      </header>
     {% include nav.html %}
 {% endif %}
 
@@ -30,55 +33,52 @@
 {% include nav.html %}
 {% if showHeaderHome == true %}
 
-    <header class="header-home {% if site.animation %}animated{% endif %}">
-      <a class="link" href="{{ site.url }}/">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-</a>
-      <h1 class="title2">{{ site.name }}</h1>
-<div class="wrapper-normal">
-<div class="deschome">
-  <div style="text-align: left;">
+      <header class="header-home {% if site.animation %}animated{% endif %}">
+        <a class="link" href="{{ site.url }}/">
+          <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}"/>
+        </a>
+        <h1 class="title2">{{ site.name }}</h1>
+      {% include social-links.html %}
+
+        <div class="wrapper-normal">
+          <div class="deschome">
+            <div style="text-align: left;">
       {% include homedesc.html %}
   </div>
-</div>
-</div>
-      {% include social-links.html %}
+          </div>
+        </div>
 {% endif %}
 
 {% if page.title == "Projects" %}
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<header class="header-home {% if site.animation %}animated{% endif %}">
-  <h1 class="title">Past Work & Projects</h1>
-  <h2><i><figcaption class="caption">* indicates spec work</figcaption></i></h2>
-</header>
-<header class="header-home">  {% include social-links.html %} </header>
+
+          <header class="header-home {% if site.animation %}animated{% endif %}">
+            <h1 class="title">Past Work & Projects</h1>
+            <h2>
+              <i>
+                <figcaption class="caption">* indicates spec work</figcaption>
+              </i>
+            </h2>
+          </header>
+          <header class="header-home">  {% include social-links.html %} </header>
 {% endif %}
 
 
 {% if page.title == "Contact" %}
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<header class="header-home {% if site.animation %}animated{% endif %}">
-  <a class="link" href="{{ site.url }}/">
-      <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-  </a>
-    <h1 class="title">Contact</h1>
-    <h2>I look forward to hearing from you. Please fill out the short form below or email me at
-      <script>
-    var mailAdd1 = "hel";
-    var mailAdd2 = "lo@";
-    var mailAdd3 = "nickro";
-    var mailAdd4 = "wdon.com";
-    var fullAdd = mailAdd1 + mailAdd2 + mailAdd3 + mailAdd4;
-    document.write(fullAdd);
-  </script></h2>
-  <header class="header-home">  {% include social-links.html %} </header>
+
+            <header class="header-home {% if site.animation %}animated{% endif %}">
+              <a class="link" href="{{ site.url }}/">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+              </a>
+              <h1>Contact Me</h1>
+              <h3>I look forward to hearing from you. Please fill out the short form below or email me at {% include emailscript.html %}</h3>
+              <header class="header-home">  {% include social-links.html %} </header>
 {% endif %}
 
-{% if page.title == "Postcard" %}
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<header class="header-home {% if site.animation %}animated{% endif %}">
-  <h1 class="title">You got my EPIC postcard in the mail and now you WANT TO GET RICH!</h1>
-  <h2>Well you're in LUCK!</h2>
-</header>
-<header class="header-home">  {% include social-links.html %} </header>
+{% if page.title == "Services" %}
+
+              <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+                <header class="header-home {% if site.animation %}animated{% endif %}">
+                  <h1 class="title">Services</h1>
+                </header>
+                <header class="header-home"></header>
 {% endif %}

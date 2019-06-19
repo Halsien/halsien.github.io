@@ -5,33 +5,17 @@ description: All about Nick Rowdon, direct response copywriting PRO. What he can
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h1>Who am I?</h1>
+<h1 class="heading-27">What I Do</h1>
+<p>I produce marketing campaigns that are driven by measurable data. This removes the guesswork and ensures <strong>better return on investment.</strong></p>
 
-<p>Welcome to my website, my name is Nick Rowdon. I'm a direct response copywriter from Ontario with years of marketing and sales experience. I'm here to help your sales and marketing get to where it deserves to be.</p>
+<p style="border:2px; border-style:solid; border-color:black; padding: 2px; font-weight: 600; width: auto; color: black; background: #eeeeee; display: block; text-align: center;">I am here to generate more revenue for your business. Improving your marketing results with cold, hard data.</p>
 
-<h2><span class="evidence">My ONLY goal is to help your product or service SELL better...</span></h2>
+<p>There are other marketing professionals who focus on pretty branding and fluff, telling you it will help you sell. To be blunt, it's like pissing in the wind. I write and advertise with metrics, not hopes and dreams.</p>
 
-<p>I'm here to write words to generate more profit for you. It's not always about writing cute "brand personality" pieces. If you want to make more money, the words you put out have to reflect that. I know how to do that.</p>
+<p>I've met a lot of business owners looking to generate more revenue. Not one of them chose a losing marketing campaign over one that generates piles of cash.</p>
 
-<p>You need QUALITY prospects who CONVERT. Don't settle for bad copy and ads that bring in the wrong leads who will never convert. They bring up your costs and lower your profits. You don't want jokes, you don't want fluff, you want RESULTS.</p>
-<p>Do you want more PROFIT, while spending LESS?</p>
-<p>Why should you spend your days slaving over your advertisements, copywriting, landing pages, etc? You’ve built a business and you deserve to be working on it.</p> 	
+<p>While I have professional experience in graphic design, the artistic elements do not control the marketing. If it is between design and results... choose results.</p>
 
-<p>I am a full-stack direct response marketer. Depending on your need, I will take you from A-to-Z with your marketing. There’s a lot of skillsets that go into this, let me explain…</p>
-Instead of going to 3, 4, or even 5 different people to help your marketing, use all the saved time to do what you want. The services I can do for you are:
-1.	Facebook ads
-2.	Landing Pages
-3.	Funnels
-4.	Sales Copy
-5.	Custom Images / Graphics
-6.	Email Campaigns + Lists / Autoresponders
-7.	Increase ROI, Increase ROAS (Return On Ad Spend)
-8.	Increase Click-Through Rate.
+<p>A/B or "split testing" is something I do constantly. Whatever marketing campaign I work on I am testing multiple variations. Something as tiny as changing the colour of a word could be the factor in a good campaign and a great campaign. Don't let those small details get overlooked by the other guys. They're in it for a quick buck and will settle for a <strong>barely</strong> profitable campaign.</p>
 
-<p>And so much more…</p>
-
-<p>For whatever reason, <a href="{{ site.url }}/contact">send me a message</a>. You can also reach me on any of my social media pages.</p>
-
-<p>I look forward to getting in touch.</p>
-
-<p>Nick</p>
+<p>My doors are always open, if you're in the Niagara region we can grab a cup of coffee some time and talk face to face on taking your business to the next level.</p>
