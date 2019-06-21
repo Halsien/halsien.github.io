@@ -10,7 +10,7 @@ description: All about Nick Rowdon, direct response copywriting PRO. What he can
 
 <p style="border:2px; border-style:solid; border-color:black; padding: 2px; font-weight: 600; width: auto; color: black; background: #eeeeee; display: block; text-align: center;">I am here to generate more revenue for your business. Improving your marketing results with cold, hard data.</p>
 
-<p>There are other marketing professionals who focus on pretty branding and fluff, telling you it will help you sell. To be blunt, it's like pissing in the wind. I write and advertise with metrics, not hopes and dreams.</p>
+<p>There are other marketing professionals who focus on pretty branding and fluff, telling you it will help you sell. What they focus on in terms of revenue is a bit like closing your eyes and hoping for the best. I write and advertise with metrics, not hopes and dreams.</p>
 
 <p>I've met a lot of business owners looking to generate more revenue. Not one of them chose a losing marketing campaign over one that generates piles of cash.</p>
 
